@@ -1,0 +1,9 @@
+{
+  "name": "akokobobo",
+  "description": "my github site",
+  "author": "me",
+  "dependencies": {
+    "express": "^4.4.3"
+  },
+  "main": "app.js"
+}
