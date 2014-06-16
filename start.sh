@@ -1,2 +1,2 @@
 #!/bin/bash
-npm start
+PORT=80 npm start
